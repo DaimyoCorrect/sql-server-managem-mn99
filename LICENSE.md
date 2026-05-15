@@ -1,4 +1,4 @@
-# 
+# automatic SQL Server Management Studio for PC | SQL Server Management Studio for Windows Theme | data-visualization + query-editor offers the most advanced SQL Server Management
 
 
 
